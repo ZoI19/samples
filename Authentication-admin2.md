@@ -51,7 +51,7 @@ oauth2/authorizeclient_id=ff28182b-b927-4697-9f0e-3d38e40971a8a
 
 The application must be added on [Azure Portal](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps) and should request access to DevSpace.
 
-Access may be assigned either by [Azure portal UI](#A.-Azure-portal-UI) or by [editing the manifest](#B.-Editing-manifest):
+Access may be assigned either by [Azure portal UI](#A.-Azure-portal-UI) or by [editing the manifest](#B.-Editing-the-manifest):
 
 ### A. Azure portal UI
 
