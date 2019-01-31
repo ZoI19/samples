@@ -3,7 +3,7 @@
 <!-- TOC -->
 - [Overview](#overview)
 - [1. Create Devspace service principal on the target tenant](#1-create-devspace-service-principal-on-the-target-tenant)
-- [2. Set up client application to access DevSpace](#2-set-up-client-application-to-access-devspce)
+- [2. Set up client application to access DevSpace](#2-set-up-client-application-to-access-DevSpace)
     - [A. Azure portal UI](#a-azure-portal-ui)
     - [B. Editing the manifest](#b-editing-the-manifest)
 - [Further Reading](#further-reading)
