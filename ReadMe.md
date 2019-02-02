@@ -8,7 +8,7 @@
 <!-- /TOC -->
 
 ## Overview
-_This document was generated as Markdown in Visual Studio Code._
+_Ggenerated as Markdown in Visual Studio Code._
 
 The three pieces summarised and linked below are samples of recent work over a diverse technical writing career.
 
@@ -45,7 +45,7 @@ I invented and co-developed 3DBARE (three dimensional binaural audio rendering e
 Background and description of proof-of-concept  [here](https://github.com/ZoI19/samples/blob/master/sample-3Daudio.pdf).
 
 ## Further Reading
-Why ZOI19? 
+Why the name ZOI19? 
 
 Franco-American composer Edgard Varèse's vision of truly immersive musical experience, that 3DBARE will finally make possible in 2019: '**Z**_ones_ **O**_f_ **I**_ntensities_' as envisioned in ['The Liberation of Sound'](http://www.zakros.com/mica/soundart/s04/varese_text.html) (1936).
 
