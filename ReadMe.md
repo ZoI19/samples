@@ -10,15 +10,7 @@
 ## Overview
 _This document was generated as Markdown in Visual Studio Code._
 
-The three documents summarised and linked here are presented as a brief outline of a diverse technical writing career.
-
-## 3DBARE: a virtual audio project
-
-My PhD thesis (Music Composition and Virtual Reality)  was an exploration of solutions to problems encountered when permitting a listener to dismantle and reconstitute a musical composition in a virtual environment.
-
-I invented and co-developed 3DBARE (three dimensional binaural audio rendering engine) for listeners to physically enter a virtually spatialised multi-channel 3D soundscape using motion-tracked headsets and software.
-
-Background and description of proof-of-concept  [here](https://github.com/ZoI19/samples/blob/master/sample-3Daudio.pdf).
+The three pieces summarised and linked below are samples of recent work over a diverse technical writing career.
 
 ## Rail Depot DMS User Guide
 
@@ -42,6 +34,15 @@ This redacted excerpt from API documentation for an employer's GitHub gives inst
 The company name is changed to 'DevSpace' and  company-specific configurations have been randomised.
 
 API authentication admin [here](https://github.com/ZoI19/samples/blob/master/sample_Authentication-admin.md).
+
+
+## 3DBARE: a virtual audio project
+
+My PhD thesis (Music Composition and Virtual Reality)  was an exploration of solutions to problems encountered when permitting a listener to dismantle and reconstitute a musical composition in a virtual environment.
+
+I invented and co-developed 3DBARE (three dimensional binaural audio rendering engine) for listeners to physically enter a virtually spatialised multi-channel 3D soundscape using motion-tracked headsets and software.
+
+Background and description of proof-of-concept  [here](https://github.com/ZoI19/samples/blob/master/sample-3Daudio.pdf).
 
 ## Further Reading
 Why ZOI19? 
