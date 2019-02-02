@@ -12,7 +12,7 @@ _Generated in Visual Studio Code as Markdown file._
 
 The three pieces summarised and linked below are samples of recent work over a diverse technical writing career.
 
-## Rail Depot DMS User Guide
+## User Guide and Dictionary of Terms
 
 _Generated in MS Word, Visio and Excel. Combined as PDF for publication._
 
@@ -21,12 +21,12 @@ I built a Document Management System (DMS) for Siemens Thameslink. This is the U
 It contains 
 
 - Instructions for easy use, 
-- Map of the DMS structure, 
-- Dictionary of 700 abbreviations, used to categorise over 50,000 documents.  
+- Map of DMS structure, 
+- Dictionary of 700 terms used to categorise over 50,000 documents.  
 
-The Dictionary is separated into Document Type, pp24-28 and Equipment Type, pp29-48.
+The Dictionary is in two parts: document types (pp24-28) and equipment (pp29-48).
 
-It facilitates rapid search of the DMS for any document by depot, location, document-type and equipment-type.
+It facilitates rapid search of the DMS for any document by depot, location, document type or equipment.
 
 DMS User Guide and Dictionary of Terms [here](https://github.com/ZoI19/samples/blob/master/sample-DMSGuide.pdf).
 
