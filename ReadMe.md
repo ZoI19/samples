@@ -29,7 +29,7 @@ DMS User Guide and Dictionary of Terms [here](https://github.com/ZoI19/samples/b
 
 _Generated in Visual Studio Code as Markdown file._
 
-This redacted excerpt from API documentation for an employer's GitHub gives instruction on authentication admin for third part apps integrating with their front end application.
+This redacted excerpt from API documentation for an employer's GitHub gives instruction on authentication admin for third party apps integrating with their front end application.
 
 The company name is changed to 'DevSpace' and  company-specific configurations have been randomised.
 
