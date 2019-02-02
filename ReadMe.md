@@ -8,7 +8,7 @@
 <!-- /TOC -->
 
 ## Overview
-_Generated as Markdown in Visual Studio Code._
+_Generated in Visual Studio Code as Markdown file._
 
 The three pieces summarised and linked below are samples of recent work over a diverse technical writing career.
 
