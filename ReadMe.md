@@ -18,9 +18,15 @@ _Generated in MS Word, Visio and Excel. Combined as PDF for publication._
 
 I built a Document Management System (DMS) for Siemens Thameslink. This is the User Guide compiled to assist rail depot engineers in rapidly finding required data.
 
-It contains instructions for easy use, a map of the DMS structure and a dictionary (by Document Type, pp24-28; by Subject / Equipment Type, pp29-48) of the 600+ abbreviations used to categorise over 50,000 documents. 
+It contains 
 
-It is designed to facilitate rapid search of the DMS for any document by depot, location, document-type and equipment-type.
+- Instructions for easy use, 
+- Map of the DMS structure, 
+- Dictionary of 700 abbreviations, used to categorise over 50,000 documents.  
+
+The Dictionary is separated into Document Type, pp24-28 and Equipment Type, pp29-48.
+
+It facilitates rapid search of the DMS for any document by depot, location, document-type and equipment-type.
 
 DMS User Guide and Dictionary of Terms [here](https://github.com/ZoI19/samples/blob/master/sample-DMSGuide.pdf).
 
