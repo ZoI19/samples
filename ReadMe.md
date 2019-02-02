@@ -16,7 +16,7 @@ The three pieces summarised and linked below are samples of recent work over a d
 
 _Generated in MS Word, Visio and Excel. Combined as PDF for publication._
 
-I built a Document Management System (DMS) for Siemens Thameslink. This is the User Guide compiled to assist rail depot engineers in rapidly finding required data.
+I built a Document Management System (DMS) for Siemens Thameslink. This is the User Guide and Dictionary of Terms compiled to assist rail depot engineers in rapidly finding required data.
 
 It contains 
 
